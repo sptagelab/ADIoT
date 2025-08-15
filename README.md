@@ -3,8 +3,10 @@
 
 International Conference / Workshop on <b>A</b>ttacks and <b>D</b>efense for <b>I</b>nternet-<b>o</b>f-<b>T</b>hings Website
 
-## Past ADIoT Events
+## Ongoing ADIoT Event
 - [ADIoT Conference 2025](https://adiot.sptagelab.org/2025/) Changzhou, China.
+
+## Past ADIoT Events
 - [ADIoT Conference 2024](https://adiot.sptagelab.org/2024/) Hangzhou, China.
 - [ADIoT Workshop 2023](https://adiot.sptagelab.org/2023/) Hague, Netherlands.
 - [ADIoT Workshop 2022](https://adiot.sptagelab.org/2022/) Copenhagen, Denmark.
