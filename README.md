@@ -1,5 +1,5 @@
 # ADIoT
-<img src="adiot-logo.png" width="160" height="160" />
+<img src="adiot-logo.png" width="192" height="192" />
 
 International Conference / Workshop on <b>A</b>ttacks and <b>D</b>efense for <b>I</b>nternet-<b>o</b>f-<b>T</b>hings Website
 
